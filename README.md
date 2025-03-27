@@ -1,13 +1,15 @@
-# Pruning Decision Trees: Boosting Accuracy and Clarity in Social Media Usage Analysis
+# Increasing Clarity and Accuracy in Social Media Usage Analysis via Pruning Decision Trees
 
-This repository demonstrates how **pruning** affects the **performance** and **interpretability** of Decision Trees using a social media survey dataset. The project explores predicting restlessness based on features like age, gender, usage time, distraction, and comparison, with a focus on simplifying models without sacrificing predictive power.
+ This repository uses a dataset from a social media survey to show how **pruning** impacts Decision Trees' **performance** and **interpretability**.  With an emphasis on streamlining models without compromising predictive ability, the research investigates anticipating restlessness based on characteristics including age, gender, usage time, distraction, and comparison.
 
-## Project Overview
 
-- **Objective**: To illustrate how pruning decision trees improves accuracy and interpretability by reducing overfitting.
-- **Dataset**: A social media survey with 177 responses, including features such as age, gender, usage time, and psychological scales (distraction, comparison, etc.).
-- **Task**: Predict whether someone feels restless without social media (binary classification).
-- **Key Techniques**: Decision Tree Classifier, pruning via `max_depth`, feature importance analysis, and visualizations.
+ ## Project Synopsis
+
+ **Goal**: To demonstrate how decision tree pruning reduces overfitting and enhances accuracy and interpretability.
+ **Dataset**: A social media survey that included psychological scores (distraction, comparison, etc.) and characteristics like age, gender, and usage time.
+ The task at hand is to predict, using a binary classification, if someone gets restless when they aren't using social media.
+ **Key Techniques**: Decision Tree Classifier, feature importance analysis, pruning using `max_depth`, and visualizations.
+
 
 ## Installation and Setup
 
